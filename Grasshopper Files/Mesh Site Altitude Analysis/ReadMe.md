@@ -7,5 +7,6 @@
 - 通过将最大值、最小值和这些Z坐标输入到电池“Gradient”来获得一系列颜色
 - 最后通过电池“Mesh Colors”来获得根据高度上色的Mesh模型
 
-<img src="https://github.com/KunshengHuang/Data-Project-and-Site-Analysis-Documents/blob/main/Grasshopper%20Files/Mesh%20Site%20Altitude%20Analysis/Altitude%20Map_03.jpg" width="350" height="250"/>
-![image](https://github.com/KunshengHuang/Data-Project-and-Site-Analysis-Documents/blob/main/Grasshopper%20Files/Mesh%20Site%20Altitude%20Analysis/Screenshot.png)
+<div align=center><img src="https://github.com/KunshengHuang/Data-Project-and-Site-Analysis-Documents/blob/main/Grasshopper%20Files/Mesh%20Site%20Altitude%20Analysis/Altitude%20Map_03.jpg" width="700" height="500"/></div>
+
+<div align=center><img src="https://github.com/KunshengHuang/Data-Project-and-Site-Analysis-Documents/blob/main/Grasshopper%20Files/Mesh%20Site%20Altitude%20Analysis/Screenshot.png" width="700" height="500"/></div>
