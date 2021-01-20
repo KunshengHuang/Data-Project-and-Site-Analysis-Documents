@@ -5,3 +5,4 @@
 - 通过Sort List和List Item来获得这些Z坐标的最大值和最小值
 - 通过将最大值、最小值和这些Z坐标输入到电池“Gradient”来获得一系列颜色
 - 最后通过电池“Mesh Colors”来获得根据高度上色的Mesh模型
+![](Altitude Map_03.jpg)
