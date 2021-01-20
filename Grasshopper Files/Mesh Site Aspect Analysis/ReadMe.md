@@ -12,4 +12,4 @@
 
 <div align=center><img src="https://github.com/KunshengHuang/Data-Project-and-Site-Analysis-Documents/blob/main/Grasshopper%20Files/Mesh%20Site%20Aspect%20Analysis/Aspect%20Map_04.jpg" width="700" height="500"/></div>
 
-<div align=center><img src="https://github.com/KunshengHuang/Data-Project-and-Site-Analysis-Documents/blob/main/Grasshopper%20Files/Mesh%20Site%20Aspect%20Analysis/Aspect%20Analysis%20Screenshot.jpg" width="700" height="500"/></div>
+<div align=center><img src="https://github.com/KunshengHuang/Data-Project-and-Site-Analysis-Documents/blob/main/Grasshopper%20Files/Mesh%20Site%20Aspect%20Analysis/Aspect%20Analysis%20Screenshot.jpg" width="700" height="200"/></div>
