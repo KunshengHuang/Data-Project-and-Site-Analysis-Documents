@@ -7,3 +7,7 @@
   - “水”（Curves）碰到Mesh后，根据地形朝向确定水之后”流动“的方向，每次“流动”的长度即为Length
   - 设定进行计算的步骤（即为Steps）
 - 上面的原理推测已经基本解释了参数的含义，特别需要注意的是参数设定时应该与模型单位相符，事先应该确定好模型的单位是“毫米”还是“米”
+
+<div align=center><img src="https://github.com/KunshengHuang/Data-Project-and-Site-Analysis-Documents/blob/main/Grasshopper%20Files/Mesh%20Site%20Runoff%20Analysis/%E5%9F%BA%E5%9C%B0%E6%B1%87%E6%B0%B4.jpg" width="700" height="500"/></div>
+
+<div align=center><img src="https://github.com/KunshengHuang/Data-Project-and-Site-Analysis-Documents/blob/main/Grasshopper%20Files/Mesh%20Site%20Runoff%20Analysis/Runoff%20Analysis%20Screenshot.jpg" width="700" height="340"/></div>
